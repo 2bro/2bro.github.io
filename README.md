@@ -1,2 +1,2 @@
-# 2bro.github.io
-wo.kg
+# WO.KG
+👉[wo.kg](https://wo.kg/)
